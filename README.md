@@ -1,4 +1,4 @@
-# End-to-End Apparel Business Analytics: Demand, Inventory and Production Intelligence
+# End-to-End Apparel Business Analytics
 
 ## *A full-stack analytics system combining SQL, Python, and Power BI to optimize inventory, improve working capital, and forecast demand.*
 # 🚀 Project Overview
