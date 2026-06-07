@@ -138,11 +138,9 @@ reactive to proactive.
 
 ## Strategic Insight
 
-> The business does not suffer from unpredictable demand.
-> It suffers from poor alignment between predictable demand 
-> and operational decisions.
-> The opportunity is not in the data - it is in the decisions 
-> the data enables.
+The business does not suffer from unpredictable demand.
+ It suffers from poor alignment between predictable demand and operational decisions.
+ The opportunity is not in the data - it is in the decisions the data enables.
 
 ---
 
@@ -152,11 +150,11 @@ Apparel-Business-Analytics/
 │
 ├── README.md
 ├── data_dictionary.md
-├── sql/              # Price band, DSO simulation, SKU ranking queries
-├── notebook/         # Python forecasting models (SARIMA, Holt-Winters)
-├── dashboards/       # Power BI .pbix files
-├── data/             # Synthetic dataset
-└── images/           # Visualisations and dashboard screenshots
+├── sql/              -> Price band, DSO simulation, SKU ranking queries
+├── notebook/         -> Python forecasting models (SARIMA, Holt-Winters)
+├── dashboards/       -> Power BI .pbix files
+├── data/             -> Synthetic dataset
+└── images/           -> Visualisations and dashboard screenshots
 ```
 ---
 
